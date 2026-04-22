@@ -8,6 +8,11 @@ The Data that was used is from Leonardo Ferreira. It is from Kaggle.com and can 
 
 ---
 
+
+##  📊 Data Analysis
+- A thorough analysis of the data and its findinigs can be found in the file 'analysis_model.ipynb' after all the cells have been runned. 
+
+
 ##  How to Run This Project
 
 - Open VS Code on your computer.
@@ -20,7 +25,7 @@ The Data that was used is from Leonardo Ferreira. It is from Kaggle.com and can 
 
 - Click on the button "Run All" to run all of the cells.
 
-### How to run & use the Web-app
+### How to run & use the web-app
 
 - Go to the file labeled as "app.py".
 - Open a new terminal.
