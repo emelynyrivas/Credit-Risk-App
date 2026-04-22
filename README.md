@@ -25,7 +25,9 @@ The Data that was used is from Leonardo Ferreira. It is from Kaggle.com and can 
 - Go to the file labeled as "app.py".
 - Open a new terminal.
 - Type: 'streamlit run app.py'
+  
   ⚠️ If an error message occurs here, please make sure that you have git installed on your computer. Instructions for download can be found here: https://git-scm.com/install/
+  
 - Please copy and paste the local URL that you see into a browser.
 - You can now use the app. Enjoy!
 
